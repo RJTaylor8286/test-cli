@@ -1,10 +1,6 @@
 HELLO WORLD
 
-# Test::Cli
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/test/cli`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem will allow the user to see available movie times at a movie theater in Richmond, Va.  The user will be able to see the movie that is playing, the showtime, and the price of the tickets.
 
 ## Installation
 
